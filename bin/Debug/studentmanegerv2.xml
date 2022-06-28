@@ -1,0 +1,246 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+studentmanegerv2
+</name>
+</assembly>
+<members>
+<member name="T:studentmanegerv2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.INSTI_TOOL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.INSTI_TOOL__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.outline_close_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.outline_close_white_24dp1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.outline_first_page_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.outline_info_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.outline_minimize_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.outline_school_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.PikPng_com_open_book_png_558304">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_add_photo_alternate_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_admin_panel_settings_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_apartment_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_arrow_left_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_arrow_right_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_assignment_ind_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_auto_stories_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_cancel_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_clear_all_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_clear_all_white_24dp1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_delete_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_email_white_48dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_email_white_48dp1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_family_restroom_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_flash_auto_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_group_add_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_group_add_white_24dp1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_history_edu_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_history_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_last_page_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_notifications_active_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_notifications_active_white_24dp1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_notifications_active_white_24dp2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_perm_media_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_person_add_alt_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_person_search_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_priority_high_black_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_published_with_changes_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_published_with_changes_white_24dp1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_save_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_send_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_settings_remote_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_settings_remote_white_24dp1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_settings_remote_white_24dp2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:studentmanegerv2.My.Resources.Resources.twotone_source_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
